@@ -1,5 +1,5 @@
 # Tracer
 
 ## TODO
-- [] add instructions for this repository.
-- [] add demos .
+- [x] add instructions for this repository.
+- [x] add demos .
