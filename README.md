@@ -8,6 +8,10 @@
 
 ## Demonstrations
 
+## Supplementary Materials
+- Videos: 
+- Appendix: 
+- Paper: Coming soon
 
 ## TODO
 - [x] add 3D models
