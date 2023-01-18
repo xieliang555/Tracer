@@ -6,11 +6,8 @@
     <img src="assets/cover.png" width="40%" ></img>
 </div> 
 
-## C320-C13
+## Demonstrations
 
-## USB
-
-## 3-Pin Electric Plug
 
 ## TODO
 - [x] add 3D models
