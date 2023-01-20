@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="assets/other.png" width="400" />
+<img src="assets/other.gif" width="400" />
 
 </div>
 
