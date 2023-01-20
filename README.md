@@ -17,7 +17,7 @@
 
 </div>
 
-<table>
+<table align="center">
    <tr>
       <td rowspan="2" style=font-weight:bold>网络安全保护对象的重要程度</td>
       <td colspan="4" style=font-weight:bold>网络安全保护对象可能受到损害的程度</td>
