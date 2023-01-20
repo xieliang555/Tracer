@@ -22,7 +22,6 @@
 
 | <img src="assets/videos_f_2.gif" width="300" /> | <img src="assets/videos_f_2.gif" width="300"  /> |
 |:--:|:--:|
-|USB|USB|
 
 </div>
 
