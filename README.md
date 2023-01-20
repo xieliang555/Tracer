@@ -16,9 +16,7 @@ __The 3-DoF peg-in-hole process.__ The peg is placed randomly in a
 given region. Then the gripper is controlled to grasp the peg. There exists grasping error due
 to the randomization. Our proposed approach leverages force-torque feedback to localize the
 precise hole position. When the position alignment is achieved between the peg and the hole,
-the peg is pushed into the hole compliantly to finish insertion. Finally the peg is released by
-the gripper
-
+the peg is pushed into the hole compliantly to finish insertion.
 - C320-C13
 
 <div align="center">
