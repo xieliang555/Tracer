@@ -6,6 +6,13 @@
     <img src="assets/cover.png" width="40%" ></img>
 </div> 
 
+<div align="center">
+
+| <img src="assets/setting.png" width="40%" /> | <img src="assets/cover.png" width="40%"  /> | 
+|:--:|:--:|
+
+</div>
+
 ## Demonstrations
 
 - C320-C13
