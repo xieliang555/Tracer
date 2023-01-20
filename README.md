@@ -13,22 +13,11 @@
 
 | <img src="assets/videos_f_2.gif" width="300" /> | <img src="assets/videos_f_2.gif" width="300"  /> |
 |:--:|:--:|
-|static insertion|
+|USB|USB|
 
 </div>
 
-<table align="center">
-   <tr>
-      <td rowspan="2" style=font-weight:bold>网络安全保护对象的重要程度</td>
-      <td colspan="4" style=font-weight:bold>网络安全保护对象可能受到损害的程度</td>
-   </tr>
-   <tr>
-      <td>特别严重</td>
-      <td>严重</td>
-      <td>较大</td>
-      <td>一般</td>
-   </tr>
-</table>
+
 
 
 
