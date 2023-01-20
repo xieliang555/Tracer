@@ -28,27 +28,6 @@
       <td>较大</td>
       <td>一般</td>
    </tr>
-   <tr>
-      <td>特别重要</td>
-      <td>I 级事件</td>
-      <td>II  级事件</td>
-      <td>III 级事件</td>
-      <td>III 级事件</td>
-   </tr>
-   <tr>
-      <td>重要</td>
-      <td>II 级事件</td>
-      <td>III  级事件</td>
-      <td>III 级事件</td>
-      <td>IV级事件</td>
-   </tr>
-   <tr>
-      <td>一般</td>
-      <td>III 级事件</td>
-      <td>III  级事件</td>
-      <td>IV级事件</td>
-      <td>IV级事件</td>
-   </tr>
 </table>
 
 
