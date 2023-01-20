@@ -39,7 +39,7 @@
 
 </div>
 
-More video demonstrations are available in [Bilibili](https://www.bilibili.com/video/BV1xK411U71q/?spm_id_from=333.999.0.0&vd_source=607a93301df2e521df43ecab79ab1dec)
+More video demonstrations are available at [Bilibili](https://www.bilibili.com/video/BV1xK411U71q/?spm_id_from=333.999.0.0&vd_source=607a93301df2e521df43ecab79ab1dec)
 
 
 <!-- - Others
