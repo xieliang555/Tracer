@@ -5,7 +5,7 @@
 
 <div align="center">
 
-| <img src="assets/setting.png" width="400" /> | <img src="assets/cover.png" width="400"  /> | 
+| <img src="assets/setting.png" width="380" /> | <img src="assets/cover.png" width="380"  /> | 
 |:--:|:--:|
 
 </div>
