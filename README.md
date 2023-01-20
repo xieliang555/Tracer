@@ -30,7 +30,7 @@
 
 <div align="center">
 
-| <img src="assets/rubber-1.gif" width="300" /> | <img src="assets/rubber-2.gif" width="300"  /> | <img src="assets/rubber-3.gif" width="300"  /> |
+| <img src="assets/rubber-1.gif" width="300" /> | <img src="assets/rubber-3.gif" width="300"  /> | <img src="assets/rubber-2.gif" width="300"  /> |
 |:--:|:--:|:--:|
 
 </div>
