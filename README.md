@@ -11,7 +11,7 @@
 
 <div align="center">
 
-| <img src="assets/video_f_1.gif" width="300" /> | <img src="assets/video_f_1.gif" width="300"  /> |
+| <img src="assets/video_f_2.gif" width="300" /> | <img src="assets/video_f_2.gif" width="300"  /> |
 |:--:|:--:|
 |static insertion|dynamic insertion|
 
