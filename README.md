@@ -40,7 +40,13 @@
 </div>
 
 
+- Others
 
+<div align="center">
+
+<img src="assets/other.png" width="400" />
+
+</div>
 
 
 ## Supplementary Materials
