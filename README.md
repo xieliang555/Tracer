@@ -8,7 +8,7 @@
 
 <div align="center">
 
-| <img src="assets/setting.png" width="40%" /> | <img src="assets/cover.png" width="40%"  /> | 
+| <img src="assets/setting.png" width="300" /> | <img src="assets/cover.png" width="300"  /> | 
 |:--:|:--:|
 
 </div>
