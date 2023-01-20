@@ -17,6 +17,40 @@
 
 </div>
 
+<table>
+   <tr>
+      <td rowspan="2" style=font-weight:bold>网络安全保护对象的重要程度</td>
+      <td colspan="4" style=font-weight:bold>网络安全保护对象可能受到损害的程度</td>
+   </tr>
+   <tr>
+      <td>特别严重</td>
+      <td>严重</td>
+      <td>较大</td>
+      <td>一般</td>
+   </tr>
+   <tr>
+      <td>特别重要</td>
+      <td>I 级事件</td>
+      <td>II  级事件</td>
+      <td>III 级事件</td>
+      <td>III 级事件</td>
+   </tr>
+   <tr>
+      <td>重要</td>
+      <td>II 级事件</td>
+      <td>III  级事件</td>
+      <td>III 级事件</td>
+      <td>IV级事件</td>
+   </tr>
+   <tr>
+      <td>一般</td>
+      <td>III 级事件</td>
+      <td>III  级事件</td>
+      <td>IV级事件</td>
+      <td>IV级事件</td>
+   </tr>
+</table>
+
 
 
 ## Supplementary Materials
