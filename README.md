@@ -8,11 +8,13 @@
 
 ## Demonstrations
 
-<div align=center>
-    <p float="left">
-        <img src="assets/video_f_2.gif" title="a" width="300" height="200"/ >
-        <img src="assets/video_f_2.gif" width="300" height="200" />
-    </p>
+
+<div align="center">
+
+| <img src="assets/video_f_1.gif" width="300" /> | <img src="assets/video_f_1.gif" width="300"  /> |
+|:--:|:--:|
+|static insertion|dynamic insertion|
+
 </div>
 
 
