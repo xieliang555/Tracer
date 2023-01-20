@@ -12,7 +12,7 @@
 
 <div align="center">
 
-| <img src="assets/c13-1.gif" width="270" /> | <img src="assets/c13-2.gif" width="270"  /> | <img src="assets/c13-3.gif" width="270"  /> |
+| <img src="assets/c13-1.gif" width="260" /> | <img src="assets/c13-2.gif" width="260"  /> | <img src="assets/c13-3.gif" width="260"  /> |
 |:--:|:--:|:--:|
 
 </div>
