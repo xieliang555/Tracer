@@ -12,12 +12,12 @@
 
 ## Demonstrations
 
+Our proposed approach leverages force-torque feedback to localize the precise hole position. When the position alignment is achieved between the peg and the hole, the peg is pushed into the hole compliantly to finish insertion.
+
+
 __Generalization to novel tasks.__ The peg is placed randomly in a
 given region. Then the gripper is controlled to grasp the peg. There exists grasping error due
-to the randomization. Our proposed approach leverages force-torque feedback to localize the
-precise hole position. When the position alignment is achieved between the peg and the hole,
-the peg is pushed into the hole compliantly to finish insertion.
-
+to the randomization. 
 <div align="center">
 
 <img src="assets/other.gif" width="500" />
