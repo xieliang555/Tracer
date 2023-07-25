@@ -21,7 +21,7 @@ the peg is pushed into the hole compliantly to finish insertion.
 
 <div align="center">
 
-<img src="assets/other.gif" width="250" />
+<img src="assets/other.gif" width="300" />
 
 
 </div>
