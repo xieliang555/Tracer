@@ -12,7 +12,7 @@
 
 ## Demonstrations
 
-Our proposed approach leverages force-torque feedback to localize the precise hole position. When the position alignment is achieved between the peg and the hole, the peg is pushed into the hole compliantly to finish insertion.
+Our proposed approach leverages force-torque feedback to localize the precise hole position. When the position alignment is achieved between the peg and the hole, the peg is pushed into the hole to finish insertion.
 
 
 __Generalization to novel tasks.__ The proposed algorithm can generalize to novel tasks safely and efficiently without learning from scratch or fine-tuning the model in real world.
