@@ -12,7 +12,7 @@
 
 ## Demonstrations
 
-__The 3-DoF peg-in-hole process.__ The peg is placed randomly in a
+__The peg-in-hole process.__ The peg is placed randomly in a
 given region. Then the gripper is controlled to grasp the peg. There exists grasping error due
 to the randomization. Our proposed approach leverages force-torque feedback to localize the
 precise hole position. When the position alignment is achieved between the peg and the hole,
@@ -35,6 +35,8 @@ the peg is pushed into the hole compliantly to finish insertion.
 
 </div>
 
+
+<!---
 - 3-pin Electric Plug
 
 <div align="center">
@@ -43,6 +45,8 @@ the peg is pushed into the hole compliantly to finish insertion.
 |:--:|:--:|:--:|
 
 </div>
+-->
+
 
 <!---
 More video demonstrations are available at [Bilibili](https://www.bilibili.com/video/BV1xK411U71q/?spm_id_from=333.999.0.0&vd_source=607a93301df2e521df43ecab79ab1dec)
